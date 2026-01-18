@@ -1,0 +1,5 @@
+[KaiStriega]
+name = "Kai Striega"
+about = "Kai is a motivated, conscientious senior software developer and FOSS advocate with an educational background in mathematics. Whilst being very appreciate the beauty of Mathematics Kai prides himself on his ability to focus on pragmatic outcomes, prioritising his work effectively. This combined with his strong technical grounding have seen him succeed in his roles as a software developer and data engineer at BHP, and now as a senior software engineer at Cartesian Software. In addition to his professional work, Kai is active in the Free and Open Source community as a long-term maintainer of SciPy."
+city = "Sydney"
+socials = { "LinkedIn" = "https://www.linkedin.com/in/kai-striega/", "GitHub" = "https://github.com/Kai-Striega" }
