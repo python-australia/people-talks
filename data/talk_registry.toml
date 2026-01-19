@@ -1,0 +1,19 @@
+[KaiMcDonalds]
+speaker = "Kai Striega"
+title = "Optimising Your McDonald's Order: An Introduction to Linear and Mixed Integer Programming with Pyomo"
+length_in_mintues = 30
+abstract = """
+Ever wondered if you could hack your McDonald's order to be as low-calorie as possible while still meeting all your essential dietary needs?
+In this talk, we’ll dive into Linear Programming (LP) and Mixed Integer Programming (MIP) using Pyomo, a powerful Python library for optimisation.
+We’ll start with the basics—what LP and MIP are, why they’re useful, and how they help solve real-world problems. We’ll then put theory into practice by setting up an optimisation problem: finding the lowest-calorie McDonald’s meal that still meets all your nutritional requirements. Using Pyomo, we’ll model the problem, define constraints, and let an optimisation solver do the heavy lifting.
+By the end of the session, you’ll have a solid understanding of how LP/MIP works, see how to apply it in Python, and walk away with a fun (and possibly surprising) take on fast-food decision-making!
+"""
+presented_at = "PythonWA"
+presentation_date = 2025-04-03
+
+[KaiBigOh]
+speaker = "Kai Striega"
+length_in_mintues = 30
+abstract = "Big O notation is a fundamental concept in programming that allows us to analyze and compare the efficiency of algorithms. By understanding how algorithms scale with input size, we can make informed decisions to write more efficient code. This beginner level talk will cover the basics of Big O notation: the underlying theory and a practical example."
+presented_at = "PythonWA"
+presentation_date = 2023-07-06
